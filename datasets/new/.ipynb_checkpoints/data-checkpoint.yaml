@@ -1,0 +1,5 @@
+nc: 1
+names: ["ball"]
+
+train: /Users/jenda/unive/IMAGE/project/datasets/new/images/train
+val: /Users/jenda/unive/IMAGE/project/datasets/new/images/val

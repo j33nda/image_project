@@ -1,0 +1,6 @@
+train: /Users/jenda/unive/IMAGE/project/training_data/dataset_ball_split/train/images
+val: /Users/jenda/unive/IMAGE/project/training_data/dataset_ball_split/val/images
+
+
+nc: 3
+names: ['ball', 'player', 'referee']

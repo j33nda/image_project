@@ -1,0 +1,7 @@
+ultralytics==8.3.190
+opencv-python
+pandas
+pillow
+fiftyone
+sahi
+matplotlib
